@@ -1,0 +1,14 @@
+{"food": [
+    {
+        "mood": "model.Mood@47fdba4e",
+        "name": "Fresh Linen"
+    },
+    {
+        "mood": "model.Mood@1ebf9640",
+        "name": "Bermuda Grass"
+    },
+    {
+        "mood": "model.Mood@1ebf9640",
+        "name": "Watermelon"
+    }
+]}

@@ -1,0 +1,18 @@
+{"food": [
+  {
+    "mood": "model.Mood@5e2de80c",
+    "name": "Watermelon"
+  },
+  {
+    "mood": "model.Mood@1d44bcfa",
+    "name": "Library Book"
+  },
+  {
+    "mood": "model.Mood@5e2de80c",
+    "name": "Bermuda Grass"
+  },
+  {
+    "mood": "model.Mood@266474c2",
+    "name": "Fresh Linen"
+  }
+]}

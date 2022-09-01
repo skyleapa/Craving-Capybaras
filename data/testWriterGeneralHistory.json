@@ -1,0 +1,10 @@
+{"food": [
+    {
+        "mood": "model.Mood@1b68ddbd",
+        "name": "Watermelon"
+    },
+    {
+        "mood": "model.Mood@646d64ab",
+        "name": "Library Book"
+    }
+]}
