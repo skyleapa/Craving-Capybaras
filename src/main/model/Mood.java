@@ -1,7 +1,7 @@
 package model;
 
 // Represents a mood, with a verbal reaction when a Capybara has this mood, as well as a narrated representation of
-// what the mood means asdf
+// what the mood means
 public class Mood {
     private String message;
     private String narration;
